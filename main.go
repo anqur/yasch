@@ -3,7 +3,7 @@ package yasch
 import (
 	"os"
 
-	"github.com/alecthomas/jsonschema"
+	"github.com/invopop/jsonschema"
 )
 
 // WriteFile Write the structure definition to a JSON schema file.
