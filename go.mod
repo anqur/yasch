@@ -3,6 +3,7 @@ module github.com/anqur/yasch
 go 1.20
 
 require (
+	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137
 	github.com/invopop/jsonschema v0.7.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 	gopkg.in/yaml.v3 v3.0.1
